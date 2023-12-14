@@ -18,7 +18,7 @@ export default apiKey;`
 4. Start the development server:
 Run 'npm start' in your terminal and the site will run at 'http://localhost:3000/'
 
-### features
+### Features
 - Explore default topics like cats, dogs, rainbows and other queries.
 - Search for new photo categories.
 - Responsive design for a seamless user experience.
