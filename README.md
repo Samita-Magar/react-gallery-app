@@ -1,5 +1,5 @@
 # react-gallery-app
-A React-based photo gallery application that uses the Flickr API to showcase images. Users can explore default topics like sunsets, waterfalls, and rainbows, as well as search for new categories.
+A React-based photo gallery application that uses the Flickr API to showcase images. Users can explore default topics like cats, dogs, and rainbows, as well as search for new categories.
 
 ## Getting Started
 
