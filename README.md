@@ -18,17 +18,17 @@ export default apiKey;`
 3. Start the development server:
 Run 'npm start' in your terminal and the site will run at 'http://localhost:3000/'
 
-Features
+###Features
 - Explore default topics like cats, dogs, rainbows and other queries.
 - Search for new photo categories.
 - Responsive design for a seamless user experience.
 
-Project Structure
-public/: Static assets and HTML template.
-src/: React components and application logic.
-App.js: Main container component.
-config.js: API key configuration.
+###Project Structure
+- public/: Static assets and HTML template.
+- src/: React components and application logic.
+- App.js: Main container component.
+- config.js: API key configuration.
 
-Acknowledgments
+###Acknowledgments
 Treehouse for providing the project guidelines.
 Flickr for the photo API.
